@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# Gestor de Morbilidad - Willian Almenar
-# SISPRO / EPI12 / EPI15  +  Motor SIS-03/PRO (tabulador diario) + Foto->IA
 import streamlit as st
 import pandas as pd
 import numpy as np
